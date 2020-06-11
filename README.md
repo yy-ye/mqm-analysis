@@ -5,7 +5,7 @@ This repository contains supplementary material for the publications:
 
 Klubička, Filip, Antonio Toral, and Víctor M. Sánchez-Cartagena. 2018. “Quantitative Fine-Grained Human Evaluation of Machine Translation Systems: A Case Study on English to Croatian.” Machine Translation 32 (3): 195–215. https://doi.org/10.1007/s10590-018-9214-x.
 
-Ye, Yuying, Antonio Toral. 2020. "Fine-grained Human Evaluation of Transformer and Recurrent Approaches to Neural Machine Translation for English-to-Chinese." The 22nd Annual Conference of the European Association for Machine Translation.
+Ye, Yuying, Antonio Toral. 2020. "Fine-grained Human Evaluation of Transformer and Recurrent Approaches to Neural Machine Translation for English-to-Chinese."  In Proceedings of the 22nd Annual Conference of the European Association for Machine Translation, p. 125–134, Lisboa, Portugal, November 2020. 
 
 MAIN AUTHOR OF THE CODE
 -----
