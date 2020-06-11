@@ -1,0 +1,201 @@
+"mid","quelle","reference translation","System 1","System 2"
+"1","Welsh AMs worried about 'looking like muppets'
+","威尔士 AM 担心<mqm:issue xml:id=""x17"" type=""Punctuation"" severity=""minor"" note="""" agent=""Project Manager"">”</mqm:issue><mqm:issue xml:id=""x7"" type=""Omission"" severity=""major"" note="""" agent=""Project Manager""></mqm:issue>像蠢蛋<mqm:issue xml:id=""x18"" type=""Punctuation"" severity=""minor"" note="""" agent=""Project Manager"">“</mqm:issue>
+","威尔士AM担心“看起来像<mqm:issue xml:id=""x47"" type=""Overly-literal"" severity=""major"" note="""" agent=""Project Manager"">木偶</mqm:issue>”
+","威尔士<mqm:issue xml:id=""x45"" type=""Entity"" severity=""critical"" note="""" agent=""Project Manager"">小姐</mqm:issue>担心“看起来像 <mqm:issue xml:id=""x46"" type=""Untranslated"" severity=""critical"" note="""" agent=""Project Manager"">muppetts</mqm:issue> ”
+"
+"2","There is consternation among some AMs at a suggestion their title should change to MWPs (Member of the Welsh Parliament).
+","有人提议，AM 应该将头衔改为 MWP（威尔士议会议员），这让好多 AM 大为震惊。
+","有提议说<mqm:issue xml:id=""x48"" type=""Entity"" severity=""major"" note="""" agent=""Project Manager"">AMs</mqm:issue>应该改为MWP（威尔士议会议员），这让一些<mqm:issue xml:id=""x49"" type=""Entity"" severity=""major"" note="""" agent=""Project Manager"">AMs</mqm:issue>感到震惊。
+","有人建议将其<mqm:issue xml:id=""x50"" type=""Overly-literal"" severity=""critical"" note="""" agent=""Project Manager"">标题</mqm:issue>改为 <mqm:issue xml:id=""x51"" type=""Entity"" severity=""major"" note="""" agent=""Project Manager"">MWPs</mqm:issue> (威尔士议会议员)<mqm:issue xml:id=""x52"" type=""Omission"" severity=""critical"" note="""" agent=""Project Manager""></mqm:issue>。
+"
+"3","It has arisen because of plans to change the name of the assembly to the Welsh Parliament.
+","之所以有人这样提议，是因为计划要将议会名称改为“威尔士议会”。
+","之所以出现这一情况，是因为计划将议会名称改为<mqm:issue xml:id=""x53"" type=""Punctuation"" severity=""minor"" note="""" agent=""Project Manager"">威尔士议会</mqm:issue>。
+","<mqm:issue xml:id=""x54"" type=""Overly-literal"" severity=""major"" note="""" agent=""Project Manager"">它</mqm:issue>之所以出现，是因为计划将议会的名称改为<mqm:issue xml:id=""x55"" type=""Punctuation"" severity=""minor"" note="""" agent=""Project Manager"">威尔士议会</mqm:issue>。
+"
+"4","AMs across the political spectrum are worried it could invite ridicule.
+","政治界的 AM 担心这会惹人嘲笑。
+","各政治派别的 AM 担心这会招致嘲笑 。
+","整个政治领域的 <mqm:issue xml:id=""x56"" type=""Entity"" severity=""major"" note="""" agent=""Project Manager"">AMS </mqm:issue>都担心<mqm:issue xml:id=""x57"" type=""Overly-literal"" severity=""major"" note="""" agent=""Project Manager"">它</mqm:issue>可能会招致嘲笑。
+"
+"5","One Labour AM said his group was concerned ""it rhymes with Twp and Pwp.""
+","一名工党 AM 表示，工党成员担心“这个名称与 Twp 和 Pwp 押韵”。
+","<mqm:issue xml:id=""x58"" type=""Omission"" severity=""minor"" note="""" agent=""Project Manager""></mqm:issue>工党 AM 表示 ， 他的组织担心 “ 它与 Twp 和 Pwp 押韵 ” 。
+","一位工党成员说，他的<mqm:issue xml:id=""x59"" type=""Overly-literal"" severity=""minor"" note="""" agent=""Project Manager"">团队</mqm:issue>关注的是“ <mqm:issue xml:id=""x60"" type=""Mistranslation"" severity=""critical"" note="""" agent=""Project Manager"">TWP 和 PWP 的押韵</mqm:issue>”。
+"
+"6","For readers outside of Wales: In Welsh twp means daft and pwp means poo.
+","（非威尔士读者须知：在威尔士语中，twp 的意思为“愚蠢”，pwp 意思为“大便”。
+","对于威尔士以外的读者:在威尔士，twp的意思是<mqm:issue xml:id=""x61"" type=""Punctuation"" severity=""minor"" note="""" agent=""Project Manager"">愚蠢</mqm:issue>，pwp的意思是<mqm:issue xml:id=""x62"" type=""Punctuation"" severity=""minor"" note="""" agent=""Project Manager"">便便</mqm:issue>。
+","对威尔士以外的读者<mqm:issue xml:id=""x63"" type=""Mistranslation"" severity=""major"" note="""" agent=""Project Manager"">来说</mqm:issue>：在威尔士 TWP 的意思是 <mqm:issue xml:id=""x64"" type=""Untranslated"" severity=""critical"" note="""" agent=""Project Manager"">daft </mqm:issue>和 PWP 的意思是 <mqm:issue xml:id=""x65"" type=""Untranslated"" severity=""critical"" note="""" agent=""Project Manager"">po</mqm:issue> 。
+"
+"7","A Plaid AM said the group as a whole was ""not happy"" and has suggested alternatives.
+","一名民族党 AM 表示，整个民族党人员都“不满意“，建议换成其他名称。
+","一位<mqm:issue xml:id=""x68"" type=""Entity"" severity=""critical"" note="""" agent=""Project Manager"">普拉伊德</mqm:issue>AM表示，整个团队都“不高兴”，<mqm:issue xml:id=""x69"" type=""Grammar"" severity=""major"" note="""" agent=""Project Manager""></mqm:issue>并提出了一些替代方案。
+","<mqm:issue xml:id=""x71"" type=""Mistranslation"" severity=""critical"" note="""" agent=""Project Manager"">该组织</mqm:issue>表示，整个集团“<mqm:issue xml:id=""x70"" type=""Overly-literal"" severity=""minor"" note="""" agent=""Project Manager"">并不快乐</mqm:issue>”，并提出了一些替代方案。
+"
+"8","A Welsh Conservative said his group was ""open minded"" about the name change, but noted it was a short verbal hop from MWP to Muppet.
+","一名威尔士保守党人表示，保守党对这次更名“持开放态度”，但指出，发音上很容易将 MWP 发成 Muppet 的音。
+","一位威尔士保守党称 ， 他们对改名持 “ 开放态度 ” ， 但指出这是<mqm:issue xml:id=""x72"" type=""Mistranslation"" severity=""critical"" note="""" agent=""Project Manager"">从 MWP 到 Muppet 的一次简短的语言跳跃 </mqm:issue>。
+","<mqm:issue xml:id=""x73"" type=""Omission"" severity=""major"" note="""" agent=""Project Manager""></mqm:issue>威尔士保守党说，他的团体对这个名字的改变持“开放的态度”，<mqm:issue xml:id=""x74"" type=""Mistranslation"" severity=""critical"" note="""" agent=""Project Manager"">但注意到这是从 MWP 到 Muppet 的一个简短的口头跳跃</mqm:issue>。
+"
+"9","In this context The Welsh letter w is pronounced similarly to the Yorkshire English pronunciation of the letter u.
+","在该语境下，威尔士字母 w 的发音类似于约克郡英语字母 u 的发音。
+","在这种情况下，威尔士字母w的发音类似于约克郡英语字母u的发音。
+","在这种情况下，威尔士字母的发音类似于<mqm:issue xml:id=""x75"" type=""Word order"" severity=""critical"" note="""" agent=""Project Manager"">字母 u 的约克郡</mqm:issue>英语发音。
+"
+"10","The Assembly Commission, which is currently drafting legislation to introduce the name changes, said: ""The final decision on any descriptors of what Assembly Members are called will of course be a matter for the members themselves.""
+","议会委员会 (Assembly Commission) 目前正在对名称变更起草法律，<mqm:issue xml:id=""x10"" type=""Mistranslation"" severity=""critical"" note="""" agent=""Project Manager"">他</mqm:issue>说：“关于委员会成员最终决定<mqm:issue xml:id=""x12"" type=""Addition"" severity=""minor"" note="""" agent=""Project Manager"">选择</mqm:issue>用什么名字，这<mqm:issue xml:id=""x9"" type=""Omission"" severity=""minor"" note="""" agent=""Project Manager""></mqm:issue>是他们自己的事情。”
+","议会委员会(Assembly Commission)目前正在起草立法，以提出更名，该委员会说：""<mqm:issue xml:id=""x77"" type=""Unintelligible"" severity=""critical"" note="""" agent=""Project Manager"">关于被称为议会成员的任何描述符</mqm:issue>的最后决定当然应由成员自己作出。
+","目前正在起草立法以引入更改名称的议会委员会说：""<mqm:issue xml:id=""x79"" type=""Unintelligible"" severity=""critical"" note="""" agent=""Project Manager"">关于召集大会成员的任何说明的最后决定</mqm:issue>，当然是成员本身的问题""。
+"
+"11","The Government of Wales Act 2017 gave the Welsh assembly the power to change its name.
+","《2017 年威尔士政府法案》<mqm:issue xml:id=""x13"" type=""Mistranslation"" severity=""minor"" note="""" agent=""Ke Hu"">规定</mqm:issue>，威尔士议会有更名的权力。
+","《2017年威尔士政府法》赋予威尔士议会更改名称的权力。
+","《2017年威尔士政府法案》赋予威尔士议会改变其名称的权力。
+"
+"12","In June, the Commission published the results of a public consultation on the proposals which found broad support for calling the assembly a Welsh Parliament.
+","6 月，委员会公布了关于这些名称提议的公众咨询结果，<mqm:issue xml:id=""x19"" type=""Grammar"" severity=""major"" note="""" agent=""Project Manager""></mqm:issue>普遍支持使用<mqm:issue xml:id=""x15"" type=""Punctuation"" severity=""minor"" note="""" agent=""Project Manager"">”</mqm:issue>威尔士议会<mqm:issue xml:id=""x16"" type=""Punctuation"" severity=""minor"" note="""" agent=""Project Manager"">“</mqm:issue>这一名称。
+","6月，该委员会公布了关于这些建议的公众<mqm:issue xml:id=""x84"" type=""Overly-literal"" severity=""major"" note="""" agent=""Project Manager"">协商</mqm:issue>结果，普遍支持将议会称为<mqm:issue xml:id=""x81"" type=""Punctuation"" severity=""minor"" note="""" agent=""Project Manager"">威尔士议会</mqm:issue>。
+","6月，委员会公布了就提案进行<mqm:issue xml:id=""x93"" type=""Overly-literal"" severity=""major"" note="""" agent=""Project Manager"">公开协商</mqm:issue>的结果，<mqm:issue xml:id=""x82"" type=""Unintelligible"" severity=""critical"" note="""" agent=""Project Manager"">这些建议为将议会召集为威尔士议会提供了广泛的支持</mqm:issue>。
+"
+"13","On the matter of the AMs' title, the Commission favoured Welsh Parliament Members or WMPs, but the MWP option received the most support in a public consultation.
+","关于 AM 的头衔问题，委员会<mqm:issue xml:id=""x20"" type=""Unintelligible"" severity=""critical"" note="""" agent=""Project Manager"">赞</mqm:issue>倾向于<mqm:issue xml:id=""x21"" type=""Mistranslation"" severity=""critical"" note="""" agent=""Project Manager""> WMP（威尔士议会议员）</mqm:issue>，但公众咨询结果中，支持率最高的是 MWP 。
+","在<mqm:issue xml:id=""x85"" type=""Entity"" severity=""critical"" note="""" agent=""Project Manager"">医疗辅助队</mqm:issue>的头衔问题上，委员会倾向于<mqm:issue xml:id=""x86"" type=""Punctuation"" severity=""minor"" note="""" agent=""Project Manager"">威尔士议会成员</mqm:issue>或<mqm:issue xml:id=""x87"" type=""Entity"" severity=""major"" note="""" agent=""Project Manager"">WMPs</mqm:issue>，但在公众咨询中，MWP选项得到的支持最多。
+","关于<mqm:issue xml:id=""x88"" type=""Entity"" severity=""critical"" note="""" agent=""Project Manager"">阿女士</mqm:issue>的头衔问题，委员会支持<mqm:issue xml:id=""x89"" type=""Punctuation"" severity=""minor"" note="""" agent=""Project Manager"">威尔士议会议员</mqm:issue>或<mqm:issue xml:id=""x90"" type=""Entity"" severity=""critical"" note="""" agent=""Project Manager"">世界母亲运动</mqm:issue>，但在公众<mqm:issue xml:id=""x92"" type=""Overly-literal"" severity=""major"" note="""" agent=""Project Manager"">协商</mqm:issue>中，<mqm:issue xml:id=""x91"" type=""Mistranslation"" severity=""critical"" note="""" agent=""Project Manager"">该方案</mqm:issue>得到了最多的支持。
+"
+"14","AMs are apparently suggesting alternative options, but the struggle to reach consensus could be a headache for the Presiding Officer, Elin Jones, who is expected to submit draft legislation on the changes within weeks.
+","显然，AM 建议采用其他名称，但会议主席 Elin Jones 感到头痛的是，<mqm:issue xml:id=""x22"" type=""Grammar"" severity=""critical"" note="""" agent=""Project Manager"">迟迟达不成一致</mqm:issue>，因为<mqm:issue xml:id=""x23"" type=""Mistranslation"" severity=""critical"" note="""" agent=""Project Manager"">他</mqm:issue>要在几周内提交名称变更的立法草案。
+","<mqm:issue xml:id=""x94"" type=""Entity"" severity=""major"" note="""" agent=""Project Manager"">AMs</mqm:issue>显然提出了其他备选方案，但<mqm:issue xml:id=""x97"" type=""Grammar"" severity=""critical"" note="""" agent=""Project Manager"">达成协商一致意见的努力</mqm:issue>可能会使<mqm:issue xml:id=""x101"" type=""Mistranslation"" severity=""critical"" note="""" agent=""Project Manager"">主持人</mqm:issue>ElinJones头痛，预计<mqm:issue xml:id=""x95"" type=""Mistranslation"" severity=""critical"" note="""" agent=""Project Manager"">他</mqm:issue>将在几周内提交关于修改<mqm:issue xml:id=""x96"" type=""Omission"" severity=""major"" note="""" agent=""Project Manager""></mqm:issue>的立法草案。
+","<mqm:issue xml:id=""x98"" type=""Entity"" severity=""major"" note="""" agent=""Project Manager"">AMS </mqm:issue>显然是在提出替代方案，但为达成共识而进行的斗争可能令<mqm:issue xml:id=""x102"" type=""Overly-literal"" severity=""critical"" note="""" agent=""Project Manager"">主审官员</mqm:issue> Elin Jones 感到头疼，<mqm:issue xml:id=""x99"" type=""Mistranslation"" severity=""critical"" note="""" agent=""Project Manager"">他</mqm:issue>预计将在数周内提交有关修改<mqm:issue xml:id=""x100"" type=""Omission"" severity=""major"" note="""" agent=""Project Manager""></mqm:issue>的立法草案。
+"
+"15","The legislation on the reforms will include other changes to the way the assembly works, including rules on disqualification of AMs and the design of the committee system.
+","关于改革的立法还会<mqm:issue xml:id=""x24"" type=""Mistranslation"" severity=""minor"" note="""" agent=""Project Manager"">纳入</mqm:issue>议会运作方式的其他变更内容，包括取消 AM 资格的规则和委员会制度的设计。
+","关于改革的立法将包括对议会工作方式的其他修改，包括取消议员资格的规则和委员会制度的设计。
+","关于改革的立法将包括对<mqm:issue xml:id=""x103"" type=""Overly-literal"" severity=""critical"" note="""" agent=""Project Manager"">组装</mqm:issue>工作方式的其他修改，包括关于取消<mqm:issue xml:id=""x104"" type=""Mistranslation"" severity=""critical"" note="""" agent=""Project Manager"">其</mqm:issue>资格的规则和委员会制度的设计。
+"
+"16","AMs will get the final vote on the question of what they should be called when they debate the legislation.
+","AM 将在立法辩论时，对<mqm:issue xml:id=""x25"" type=""Omission"" severity=""minor"" note="""" agent=""Project Manager"">最终名称</mqm:issue>进行投票。
+","在<mqm:issue xml:id=""x105"" type=""Grammar"" severity=""critical"" note="""" agent=""Project Manager"">辩论该立法</mqm:issue>时，议员们最终将投票决定他们应该叫什么名字。
+","<mqm:issue xml:id=""x106"" type=""Entity"" severity=""critical"" note="""" agent=""Project Manager"">医疗辅助队</mqm:issue>将在他们辩论立法时，就他们应该被称为什么的问题进行最后表决。
+"
+"17","Macedonians go to polls in referendum on changing country's name
+","<mqm:issue xml:id=""x26"" type=""Entity"" severity=""minor"" note="""" agent=""Ke Hu"">马其顿</mqm:issue>就更改国名举行公投
+","马其顿民众就改国名进行全民公投。
+","马其顿人在公民投票中就改变国家的名称进行投票
+"
+"18","Voters will vote Sunday on whether to change their country's name to the ""Republic of North Macedonia.""
+","选民们将于周日进行投票，以表决是否将国名更改为“北马其顿共和国”。
+","选民将于周日投票决定是否将马其顿国名改为“北马其顿共和国”。""
+","选民将在周日就是否将其国家名称改为“北马其顿共和国”进行投票。
+"
+"19","The popular vote was set up in a bid to resolve a decades-long dispute with neighboring Greece, which has its own province called Macedonia.
+","<mqm:issue xml:id=""x27"" type=""Mistranslation"" severity=""critical"" note="""" agent=""Ke Hu"">直接投票</mqm:issue>是为了解决马其顿与邻国希腊之间长达数十年的争端问题，希腊有一个省也叫马其顿。
+","公众投票的目的是为了解决与邻国希腊之间长达数十年之久的争端。希腊有个马其顿省。
+","这次民众投票是为了解决与邻国希腊长达数十年的争端。希腊有自己的省份叫马其顿。
+"
+"20","Athens has long insisted that its northern neighbor's name represents a claim on its territory and has repeatedly objected to its membership bids for the EU and NATO.
+","雅典方面一直坚称其北部邻国的名字意味着<mqm:issue xml:id=""x30"" type=""Unintelligible"" severity=""critical"" note="""" agent=""Project Manager"">希腊对其领土具有合法权利</mqm:issue>，并多次<mqm:issue xml:id=""x29"" type=""Mistranslation"" severity=""minor"" note="""" agent=""Project Manager"">拒绝</mqm:issue>马其顿加入欧盟 (EU) 和北大西洋公约组织 (NATO)。
+","雅典方面长期以来一直坚称，其北方邻国的名字代表着对其领土的主权要求，并多次反对其加入欧盟(EU)和北约(NATO)。
+","雅典长期以来一直坚持其北方邻国的名字代表<mqm:issue xml:id=""x107"" type=""Grammar"" severity=""critical"" note="""" agent=""Project Manager"">其领土上的主张</mqm:issue>，并一再反对其加入欧盟和北约的申请。
+"
+"21","Macedonian President Gjorge Ivanov, an opponent of the plebiscite on the name change, has said he will disregard the vote.
+","马其顿总统奥尔基·伊万诺夫 (Gjorge Ivanov) 是此次更名公民投票的反对者，他表示<mqm:issue xml:id=""x31"" type=""Mistranslation"" severity=""critical"" note="""" agent=""Project Manager"">不会参与</mqm:issue>投票。
+","马其顿总统<mqm:issue xml:id=""x108"" type=""Entity"" severity=""critical"" note="""" agent=""Project Manager"">乔治·</mqm:issue>伊万诺夫(Gjorge Ivanov)反对就改名举行公投，他表示将无视投票结果。
+","马其顿总统格奥尔基·伊万诺夫表示，他将无视投票结果。
+"
+"22","However, supporters of the referendum, including Prime Minister Zoran Zaev, argue that the name change is simply the price to pay to join the EU and NATO.
+","然而，包括总理佐兰·扎埃夫 (Zoran Zaev) 在内的公投支持者们认为，更名不过是加入欧盟 (EU) 和北大西洋公约组织 (NATO) 所要付出的必然代价。
+","然而，包括总理佐兰·扎耶夫(Zoran Zaev)在内的公投支持者认为，改名只是加入欧盟和北约的代价。
+","然而，包括 <mqm:issue xml:id=""x109"" type=""Untranslated"" severity=""critical"" note="""" agent=""Project Manager"">Zoran Zahev </mqm:issue>总理在内的全民投票的支持者认为，改名只不过是为加入欧盟和北约而付出的代价。
+"
+"23","The Bells of St. Martin's Fall Silent as Churches in Harlem Struggle
+","哈萊姆区的教堂岌岌可危，圣马丁教堂的钟声陷入沉寂
+","<mqm:issue xml:id=""x110"" type=""Mistranslation"" severity=""critical"" note="""" agent=""Project Manager"">在哈莱姆区的教堂里</mqm:issue>，圣马丁教堂的钟声沉寂下来
+","<mqm:issue xml:id=""x111"" type=""Unintelligible"" severity=""critical"" note="""" agent=""Project Manager"">在哈莱姆（ Harlem ）的教堂里，圣·马丁的《沉默》的钟声</mqm:issue>
+"
+"24","""Historically, the old people I've talked to say there was a bar and a church on every corner,"" Mr. Adams said.
+","“历史上我曾经<mqm:issue xml:id=""x32"" type=""Mistranslation"" severity=""critical"" note="""" agent=""Project Manager"">约谈</mqm:issue>过的老人们都说，每个角落都会有一家酒吧和一座教堂，”亚当斯 (Adams) <mqm:issue xml:id=""x33"" type=""Omission"" severity=""minor"" note="""" agent=""Project Manager""></mqm:issue>说到。
+","亚当斯 (Adams)说：“从历史上看，和我交谈过的老人都说，每个角落都有一家酒吧和一座教堂。
+","亚当斯说：“历史上，我交谈过的老人说，每个角落都有一个酒吧和一个教堂。”
+"
+"25","""Today, there's neither.""
+","“如今，这里既没有酒吧，也没有教堂。”
+",""" 今天 ， <mqm:issue xml:id=""x114"" type=""Overly-literal"" severity=""major"" note="""" agent=""Project Manager"">两个都没有 </mqm:issue>。 ""
+","“今天<mqm:issue xml:id=""x113"" type=""Mistranslation"" severity=""critical"" note="""" agent=""Project Manager"">也没有</mqm:issue>。”
+"
+"26","He said the disappearance of bars was understandable.
+","他说酒吧的消失是情理之中的。
+","他说酒吧的消失是可以理解的。
+","他说酒吧的消失是可以理解的。
+"
+"27","""People socialize in a different way"" nowadays, he said.
+","“如今，人们<mqm:issue xml:id=""x35"" type=""Addition"" severity=""major"" note="""" agent=""Project Manager"">开始</mqm:issue>以不同的方式<mqm:issue xml:id=""x34"" type=""Addition"" severity=""major"" note="""" agent=""Project Manager"">参与</mqm:issue>社交”，亚当斯表示。
+","他说，<mqm:issue xml:id=""x115"" type=""Punctuation"" severity=""minor"" note="""" agent=""Project Manager"">如今人们以不同的方式社交</mqm:issue>。
+","他说：“现在人们的社交方式是不同的。”
+"
+"28","""Bars are no longer neighborhood living rooms where people go on a regular basis.""
+","“酒吧不再是人们定期光顾的街区客厅。”
+","“酒吧不再是人们经常去的社区客厅。”
+","“酒吧不再是人们经常光顾的社区客厅。”
+"
+"29","As for churches, he worries that the money from selling assets will not last as long as leaders expect it to, ""and sooner or later they'll be right back where they started.""
+","至于教堂，他担心<mqm:issue xml:id=""x36"" type=""Grammar"" severity=""critical"" note="""" agent=""Project Manager"">出售资产的资金</mqm:issue>并不会支撑到如领导人们预期的那样持久，“<mqm:issue xml:id=""x37"" type=""Unintelligible"" severity=""critical"" note="""" agent=""Project Manager"">资金迟早会归零</mqm:issue>”。
+","至于教堂，他担心出售资产所得的钱不会像领导人预期的那样长久，“他们迟早会回到起点。”
+","至于教会，他担心出售资产的钱不会像领导人预期的那样持久，“而且迟早他们会<mqm:issue xml:id=""x116"" type=""Overly-literal"" severity=""major"" note="""" agent=""Project Manager"">回到他们开始的地方</mqm:issue>。”
+"
+"30","Churches, he added, could be replaced by apartment buildings with condominiums filled with the kind of people who will not help the neighborhood's remaining sanctuaries.
+","他补充道，教堂将被公寓大楼所取代，而公寓中<mqm:issue xml:id=""x38"" type=""Omission"" severity=""major"" note="""" agent=""Project Manager"">住着</mqm:issue>的是那些不会帮助维护街区剩余避难所的人们。
+","<mqm:issue xml:id=""x117"" type=""Punctuation"" severity=""minor"" note="""" agent=""Project Manager"">”</mqm:issue>他补充道，教堂可能会被公寓楼所取代，公寓楼里挤满了不愿帮助社区剩余避难所的那类人。
+","他补充说，教堂可能会被公寓大楼所取代，公寓里<mqm:issue xml:id=""x118"" type=""Unintelligible"" severity=""critical"" note="""" agent=""Project Manager"">的公寓里</mqm:issue>充满了那些不会帮助<mqm:issue xml:id=""x119"" type=""Mistranslation"" severity=""critical"" note="""" agent=""Project Manager"">邻居留下</mqm:issue>的避难所的人。
+"
+"31","""The overwhelming majority of people who buy condominiums in these buildings will be white,"" he said, ""and therefore will hasten the day that these churches close altogether because it is unlikely that most of these people who move into these condominiums will become members of these churches.""
+","“在这些建筑中购买公寓的绝大多数都将是白人”，他说道，“因此，这也将加速教堂的全面关闭，因为大多数搬进这些公寓的人们不太可能会成为教堂的成员”。
+","“在这些建筑物中购买公寓的绝大多数人将是白人，”他说，“因此将加快这些教堂完全关闭的<mqm:issue xml:id=""x121"" type=""Grammar"" severity=""minor"" note="""" agent=""Project Manager"">那一天</mqm:issue>，因为搬进这些公寓的大多数人不太可能成为这些教堂的成员。”
+","他说：“在这些建筑中购买公寓的绝大多数人将是白色的，因此将加速这些教堂完全关闭的日子，因为大多数搬进这些公寓的人不可能成为这些教堂的成员。”
+"
+"32","Both churches were built by white congregations before Harlem became a black metropolis - Metropolitan Community in 1870, St. Martin's a decade later.
+","这两座教堂均在<mqm:issue xml:id=""x39"" type=""Unintelligible"" severity=""critical"" note="""" agent=""Project Manager"">圣马丁教堂建成十年后，</mqm:issue>哈萊姆区成为黑人都市（1870 年的都会社区）之前由白人会众建造。
+","在哈莱姆1870年成为黑人大都会社区之前，这两座教堂都是由白人群体建造的，十年后，圣马丁就成为了黑人大都市。
+","两个教堂都是由白人教会建造的，在哈莱姆成为一个<mqm:issue xml:id=""x122"" type=""Overly-literal"" severity=""critical"" note="""" agent=""Project Manager"">黑色</mqm:issue>的大都市——1870年的大都会社区，圣马丁<mqm:issue xml:id=""x123"" type=""Overly-literal"" severity=""critical"" note="""" agent=""Project Manager"">十年之后</mqm:issue>。
+"
+"33","The original white Methodist congregation moved out in the 1930s.
+","最初的白人卫理公会<mqm:issue xml:id=""x40"" type=""Addition"" severity=""minor"" note="""" agent=""Ke Hu"">会众</mqm:issue>于 20 世纪 30 年代迁出。
+","最初的白人卫理公会在 20 世纪 30 年代迁出 。
+","最初的白人卫理公会教徒在20世纪30年代就搬走了。
+"
+"34","A black congregation that had been worshiping nearby took title to the building.
+","在附近做礼拜的一名黑人会众获得了这座建筑的所有权。
+","在附近做礼拜的一个黑人会众获得了这座建筑的所有权。
+","一个在附近崇拜的黑人会众夺取了这座建筑物的所有权。
+"
+"35","St. Martin's was taken over by a black congregation under the Rev. John Howard Johnson, who led a boycott of retailers on 125th Street, a main street for shopping in Harlem, who resisted hiring or promoting blacks.
+","在约翰·霍华德·约翰逊 (John Howard Johnson) 牧师的领导下，圣马丁教堂被一名黑人会众接管<mqm:issue xml:id=""x41"" type=""Punctuation"" severity=""minor"" note="""" agent=""Project Manager"">，</mqm:issue>约翰逊牧师曾领导一场抵制 125 街 (125 Street) 零售商的运动，125 街是哈萊姆区一条主要的购物街，<mqm:issue xml:id=""x42"" type=""Addition"" severity=""minor"" note="""" agent=""Project Manager"">但是</mqm:issue><mqm:issue xml:id=""x43"" type=""Grammar"" severity=""minor"" note="""" agent=""Project Manager""></mqm:issue>拒绝雇用或提拔黑人。
+","圣马丁教堂在约翰·霍华德·约翰逊牧师(Rev. John Howard Johnson)的领导下被一个黑人会众接管。约翰·霍华德·约翰逊在哈莱姆区主要的购物街125街领导了一场抵制零售商的运动，<mqm:issue xml:id=""x124"" type=""Grammar"" severity=""critical"" note="""" agent=""Project Manager"">抵制雇佣或提拔黑人</mqm:issue>。
+","圣马丁是在约翰·霍华德·约翰逊牧师的领导下被一个黑人教会接管的，他领导抵制了125街的零售商，这是<mqm:issue xml:id=""x125"" type=""Grammar"" severity=""critical"" note="""" agent=""Project Manager"">在哈莱姆大街上购物</mqm:issue>的主要街道，他们拒绝雇用或提拔黑人。
+"
+"36","A fire in 1939 left the building badly damaged, but as Father Johnson's parishioners made plans to rebuild, they commissioned the carillon.
+","1939 年的一场大火对建筑造成严重损毁，但是由于约翰逊教父的教区居民计划重建教堂，他们顺便委托制造了钟琴。
+","1939年的一场大火使这座建筑物受到严重破坏，但是当约翰逊神父的<mqm:issue xml:id=""x127"" type=""Grammar"" severity=""critical"" note="""" agent=""Project Manager"">教区居民计划重建</mqm:issue>时，他们委托<mqm:issue xml:id=""x126"" type=""Unintelligible"" severity=""critical"" note="""" agent=""Project Manager"">驯鹿人修车</mqm:issue>。
+","1939年的一场大火使这座建筑严重受损，但当约翰逊神父的<mqm:issue xml:id=""x129"" type=""Grammar"" severity=""critical"" note="""" agent=""Project Manager"">教区居民计划重建</mqm:issue>时，他们委托了<mqm:issue xml:id=""x128"" type=""Mistranslation"" severity=""critical"" note="""" agent=""Project Manager"">卡龙</mqm:issue>。
+"
+"37","The Rev. David Johnson, Father Johnson's son and successor at St. Martin's, proudly called the carillon ""the poor people's bells.""
+","约翰逊教父的儿子，圣马丁教堂的继承人大卫·约翰逊 (David Johnson) 牧师傲慢地将钟琴称为“穷人的铃声”。
+","牧师大卫约翰逊(David Johnson) ，<mqm:issue xml:id=""x133"" type=""Mistranslation"" severity=""critical"" note="""" agent=""Project Manager"">父亲</mqm:issue>的儿子，也是圣马丁的继承人，<mqm:issue xml:id=""x130"" type=""Mistranslation"" severity=""critical"" note="""" agent=""Project Manager"">自豪地</mqm:issue>称<mqm:issue xml:id=""x131"" type=""Mistranslation"" severity=""critical"" note="""" agent=""Project Manager"">卡里隆</mqm:issue>为“穷人的<mqm:issue xml:id=""x132"" type=""Mistranslation"" severity=""critical"" note="""" agent=""Project Manager"">钟</mqm:issue>”。
+","约翰逊的儿子、圣马丁的继任者大卫·约翰逊( David Johnson )<mqm:issue xml:id=""x134"" type=""Mistranslation"" severity=""critical"" note="""" agent=""Project Manager"">自豪地</mqm:issue>把<mqm:issue xml:id=""x135"" type=""Mistranslation"" severity=""critical"" note="""" agent=""Project Manager"">卡龙</mqm:issue>称为“穷人的钟声”。
+"
+"38","The expert who played the carillon in July called it something else: ""A cultural treasure"" and ""an irreplaceable historical instrument.""
+","在七月曾演奏钟琴的专业人士<mqm:issue xml:id=""x44"" type=""Addition"" severity=""minor"" note="""" agent=""Project Manager"">却</mqm:issue>将其称为：“文化瑰宝”和“无可取代的历史性乐器”。
+","今年7月演奏卡隆琴的专家称它是“文化瑰宝”和“不可替代的历史乐器”。
+","今年7月<mqm:issue xml:id=""x136"" type=""Mistranslation"" severity=""critical"" note="""" agent=""Project Manager"">扮演卡龙</mqm:issue>的专家称<mqm:issue xml:id=""x137"" type=""Overly-literal"" severity=""critical"" note="""" agent=""Project Manager"">这是另一件事</mqm:issue>：“文化宝藏”和“不可替代的历史<mqm:issue xml:id=""x138"" type=""Overly-literal"" severity=""critical"" note="""" agent=""Project Manager"">工具</mqm:issue>”。
+"
+"39","The expert, Tiffany Ng of the University of Michigan, also noted that it was the first carillon in the world to be played by a black musician, Dionisio A. Lind, who moved to the larger carillon at the Riverside Church 18 years ago.
+","这位专业人士，密歇根大学的 Tiffany Ng 还指出，这是世界上第一台由黑人乐师演奏的钟琴，这位乐师名为 Dionisio A. Lind，18 年前搬到河滨教堂演奏更大的钟琴。
+","密歇根大学的专家 Tiffany Ng 也指出 ， 这是世界上第一个由黑人音乐家 Dionisio A . Lind 演奏的<mqm:issue xml:id=""x139"" type=""Unintelligible"" severity=""critical"" note="""" agent=""Project Manager"">驯鹿人 ， 18 年前 ， 他在 Riverside 教堂搬到了更大的驯鹿人中 。</mqm:issue>
+","该专家，密歇根大学的 Tiffany Ng 也指出，这是世界上第一个由黑人音乐家迪尼西奥·林德（ Dionisio A . Lind ）演奏的<mqm:issue xml:id=""x140"" type=""Mistranslation"" severity=""critical"" note="""" agent=""Project Manager"">卡龙</mqm:issue>，他在18年前<mqm:issue xml:id=""x141"" type=""Unintelligible"" severity=""critical"" note="""" agent=""Project Manager"">搬到河滨教堂的大卡龙</mqm:issue>。
+"
+"40","Mr. Merriweather said that St. Martin's did not replace him.
+","梅利韦瑟 (Merriweather) 称圣马丁教堂并没有找人取代他的位置。
+","梅里韦瑟(Merriweather) 先生说圣马丁教堂<mqm:issue xml:id=""x142"" type=""Overly-literal"" severity=""critical"" note="""" agent=""Project Manager"">不能取代</mqm:issue>他。
+","梅瑞奇说，圣马丁并没有<mqm:issue xml:id=""x143"" type=""Overly-literal"" severity=""critical"" note="""" agent=""Project Manager"">取代</mqm:issue>他。
+"

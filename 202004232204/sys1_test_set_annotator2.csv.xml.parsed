@@ -1,0 +1,810 @@
+open doc
+System 1
+close doc
+open doc
+印度尼西亚海啸造成的死亡人数上升到832人
+close doc
+open doc
+印尼的
+mqm:issue, x144, Overly-literal
+灾难机构
+mqm:issue
+周日早些时候说，印尼地震和海啸造成的死亡人数已攀升至832人。
+close doc
+open doc
+mqm:issue, x146, Mistranslation
+新华社
+mqm:issue
+发言人 
+mqm:issue, x166, Untranslated
+Sutopo Purwo Nugroho
+mqm:issue
+ 在新闻发布会上说 ， 许多人被困在上周五发生的 7 . 5 级地震中倒塌的建筑物废墟中 ， 这次地震引发的海浪高达 20 英尺 。
+close doc
+open doc
+有超过 38万人口的
+mqm:issue, x151, Entity
+帕鲁
+mqm:issue
+市到处都是倒塌建筑的废墟 。
+close doc
+open doc
+mqm:issue, x152, Punctuation
+*
+mqm:issue
+警方逮捕了一名男子，
+mqm:issue, x153, Omission
+mqm:issue
+该男子因涉嫌谋杀
+mqm:issue, x154, Omission
+mqm:issue
+mqm:issue, x155, Mistranslation
+而被人刺死
+mqm:issue
+close doc
+open doc
+今天早上在默西塞德郡
+mqm:issue, x158, Missing
+mqm:issue
+伯肯黑德发现了一具女性尸体，随后警方展开了谋杀调查。
+close doc
+open doc
+该名 44 岁
+mqm:issue, x163, Mistranslation
+男子
+mqm:issue
+于上午 7 时 55 分在 
+mqm:issue, x164, Untranslated
+John Street
+mqm:issue
+ 的 
+mqm:issue, x165, Untranslated
+Grayson Mews
+mqm:issue
+ 被人用刀刺伤 , 
+mqm:issue, x167, Addition
+另
+mqm:issue
+有一名 32 岁男子因涉嫌谋杀而被捕 。
+close doc
+open doc
+警方敦促该地区看到或听到任何消息的人站出来。
+close doc
+open doc
+探长
+mqm:issue, x173, Untranslated
+BrianO'Hagan
+mqm:issue
+说：“调查还在早期阶段，但我呼吁在
+mqm:issue, x175, Untranslated
+Birkenhead
+mqm:issue
+的
+mqm:issue, x176, Untranslated
+JohnStreet
+mqm:issue
+附近看到或听到任何可疑情况的任何人与我们联系。
+close doc
+open doc
+我还呼吁所有人，特别是那些可能在行车记录仪上捕捉到任何东西的出租车司机与我们联系，因为他们可能掌握对我们的调查至关重要的信息。
+close doc
+open doc
+警方发言人证实，这名女子的尸体是在伯肯黑德当地发现的，是在一处房产内发现的。
+close doc
+open doc
+今天下午，
+mqm:issue, x188, Fluency
+相信自己
+mqm:issue
+认识这位女士的朋友
+mqm:issue, x187, Fluency
+们
+mqm:issue
+来到现场，询问关于今天早上在哪里发现她的问题。
+close doc
+open doc
+警方表示，调查正在进行中，他们正在通知受害者的近亲。
+close doc
+open doc
+一位住在
+mqm:issue, x191, Untranslated
+GraysonMews
+mqm:issue
+的出租车司机刚刚试图回到他的公寓，但被警察告知，任何人不得进出大楼。
+close doc
+open doc
+当他发现
+mqm:issue, x193, Fluency
+发生的事情
+mqm:issue
+时，他哑口无言。
+close doc
+open doc
+居民们现在被告知，要过好几个小时才能获准返回。
+close doc
+open doc
+一名警察告诉一名男子，整个地区现在都被当作犯罪现场。
+close doc
+open doc
+一个女人哭着出现在现场 .
+close doc
+open doc
+她一直在说“太可怕了”。
+close doc
+open doc
+下午 2时 ， 两辆警车在警戒线内 ， 另一辆警车
+mqm:issue, x198, Overly-literal
+就在外面
+mqm:issue
+ 。
+close doc
+open doc
+一些警察站在监视公寓楼
+mqm:issue, x201, Particle
+的
+mqm:issue
+mqm:issue, x202, Word order
+警戒线内
+mqm:issue
+。
+close doc
+open doc
+任何人如
+mqm:issue, x208, Mistranslation
+需查询资料
+mqm:issue
+ ， 可
+mqm:issue, x204, Addition
+致电
+mqm:issue
+ 
+mqm:issue, x205, Untranslated
+DM
+mqm:issue
+ @ MerPolCC ， 或
+mqm:issue, x206, Mistranslation
+于
+mqm:issue
+ 0800 555 111 匿名接洽 
+mqm:issue, x207, Untranslated
+Crimestoppers
+mqm:issue
+ ， 
+mqm:issue, x203, Mistranslation
+引号为
+mqm:issue
+ 9月 30日的日志247 。
+close doc
+open doc
+议会的克伦威尔雕像成为最近被
+mqm:issue, x215, Punctuation
+改写历史
+mqm:issue
+mqm:issue, x218, Omission
+mqm:issue
+的
+mqm:issue, x216, Mistranslation
+纪念品
+mqm:issue
+close doc
+open doc
+对于他的狂热的清教徒追随者们所进行的塔利班式的对英国文化和宗教文物的破坏，这种驱逐将是诗意的正义。
+close doc
+open doc
+但克伦威尔学会认为克里克的建议是“愚蠢的”，“试图改写历史”。
+close doc
+open doc
+克伦威尔协会主席约翰·金史密斯 (John Goldsmith)表示：“在目前关于拆除雕像的辩论中，奥利弗·克伦威尔(Oliver Cromwell) 在威斯敏斯特宫外的雕像成为攻击目标是不可避免的。
+close doc
+open doc
+英国内战中的
+mqm:issue, x231, Mistranslation
+反政府
+mqm:issue
+运动既不是克伦威尔下令
+mqm:issue, x232, Addition
+执行
+mqm:issue
+的，也不是克伦威尔
+mqm:issue, x233, Addition
+下令
+mqm:issue
+实施的。
+close doc
+open doc
+也许克伦威尔
+mqm:issue, x241, Particle
+的
+mqm:issue
+mqm:issue, x238, Word order
+错误
+mqm:issue
+会
+mqm:issue, x239, Mistranslation
+被
+mqm:issue
+他的祖先托马斯在上个世纪的所作所为
+mqm:issue, x240, Unintelligible
+所牺牲
+mqm:issue
+。
+close doc
+open doc
+威廉·哈姆·索尔尼克罗夫特爵士对克伦威尔的
+mqm:issue, x242, Mistranslation
+杰出表现
+mqm:issue
+证明了19世纪的观点，也证明了这一许多人认为仍然值得庆祝的人物
+mqm:issue, x244, Missing
+mqm:issue
+史学的一部分。
+close doc
+open doc
+戈德史密斯对《星期日电讯报》表示：“很多人认为克伦威尔是议会抵御外部压力的捍卫者，他的情况
+mqm:issue, x248, Overly-literal
+当然就是
+mqm:issue
+君主政体，这种观点在19世纪后期可能比今天更加明显。
+close doc
+open doc
+这一表述是否完全准确，
+mqm:issue, x252, Mistranslation
+仍
+mqm:issue
+是历史争论的主题。
+close doc
+open doc
+可以肯定的是，17世纪中期的冲突塑造了我们国家随后的发展，克伦威尔是一个代表这一分歧一方的知名人物。
+close doc
+open doc
+他作为护国公所取得的成就也值得庆祝和纪念。”
+close doc
+open doc
+mqm:issue, x260, Mistranslation
+杀手
+mqm:issue
+猪咬死中国农民
+close doc
+open doc
+据当地媒体报道，在中国西南部的一个市场上，一名农民被一头猪袭击致死。
+close doc
+open doc
+据《南华早报》周日报道，在贵州省六盘水
+mqm:issue, x264, Omission
+mqm:issue
+市场
+mqm:issue, x265, Omission
+mqm:issue
+，一名男子
+mqm:issue, x266, Mistranslation
+因仅
+mqm:issue
+姓“袁”
+mqm:issue, x267, Fluency
+而
+mqm:issue
+被发现
+mqm:issue, x268, Unintelligible
+死
+mqm:issue
+死亡，
+mqm:issue, x270, Addition
+死时
+mqm:issue
+动脉
+mqm:issue, x269, Mistranslation
+干断
+mqm:issue
+，血迹斑斑。
+close doc
+open doc
+2005年 5月 30日在中国青海省西宁的一家养猪场 ， 一位养猪户准备给猪注射疫苗 。
+close doc
+open doc
+据报道，周三，他和他的表兄一起从邻近的云南省赶来，在市场上出售15头猪。
+close doc
+open doc
+第二天早上，他的表兄发现他已经死了，发现
+mqm:issue, x281, Mistranslation
+隔壁
+mqm:issue
+猪圈的门开着。
+close doc
+open doc
+他说猪圈里有一头大的公猪，嘴上沾着血。
+close doc
+open doc
+据报道，法医检查证实，这头550磅重的猪咬死了这名农民。
+close doc
+open doc
+mqm:issue, x287, Punctuation
+mqm:issue
+贵阳
+mqm:issue, x293, Mistranslation
+晚报
+mqm:issue
+mqm:issue, x288, Punctuation
+mqm:issue
+援引这位姓吴的堂兄的话说:“我堂兄的腿
+mqm:issue, x289, Addition
+被打得
+mqm:issue
+血肉模糊。”
+close doc
+open doc
+监控录像显示，
+mqm:issue, x299, Overly-literal
+袁
+mqm:issue
+于周四凌晨4点40分进入市场喂猪。
+close doc
+open doc
+他的尸体大约一小时后被发现。
+close doc
+open doc
+杀死
+mqm:issue, x303, Overly-literal
+这名男子
+mqm:issue
+的动物并不属于
+mqm:issue, x302, Overly-literal
+袁
+mqm:issue
+或他的堂兄。
+close doc
+open doc
+一位市场经理告诉
+mqm:issue, x306, Punctuation
+mqm:issue
+晚间新闻
+mqm:issue, x307, Punctuation
+mqm:issue
+，这只猪已被锁起来，以防止它袭击其他人，同时警察在现场收集证据。
+close doc
+open doc
+据报道，
+mqm:issue, x312, Mistranslation
+袁世凯
+mqm:issue
+的家人和市场当局正在协商对其死亡的赔偿。
+close doc
+open doc
+虽然很少见，但猪攻击人类的案例以前也有过记录。
+close doc
+open doc
+2016年，一头猪在马萨诸塞州的农场袭击了一名妇女和她的丈夫，致使
+mqm:issue, x316, Addition
+这名
+mqm:issue
+男子身受重伤。
+close doc
+open doc
+十年前，一头650磅的猪把一个威尔士农夫按在他的拖拉机上，直到他的妻子把它吓跑。
+close doc
+open doc
+2012年，俄勒冈州的一名农民被他的猪吃掉后，马尼托巴省的一名农民告
+mqm:issue, x323, Untranslated
+CBC
+mqm:issue
+新闻，猪通常不具有攻击性，但血液的味道可以作为一个“触发器”。
+close doc
+open doc
+”“它们只是
+mqm:issue, x327, Mistranslation
+开玩笑
+mqm:issue
+的。
+close doc
+open doc
+mqm:issue, x330, Mistranslation
+他们
+mqm:issue
+是
+mqm:issue, x331, Mistranslation
+乳头
+mqm:issue
+，非常好奇...
+mqm:issue, x335, Mistranslation
+他们
+mqm:issue
+不会伤害你的。
+close doc
+open doc
+你只需要给予
+mqm:issue, x336, Mistranslation
+他们
+mqm:issue
+适当的尊重，”他说。
+close doc
+open doc
+飓风
+mqm:issue, x340, Punctuation
+mqm:issue
+罗莎
+mqm:issue, x341, Punctuation
+mqm:issue
+的残余
+mqm:issue, x338, Missing
+mqm:issue
+给美国西南部带来
+mqm:issue, x339, Particle
+了
+mqm:issue
+大范围的暴雨
+close doc
+open doc
+正如预测的那样 ， 飓风
+mqm:issue, x344, Punctuation
+mqm:issue
+罗莎
+mqm:issue, x345, Punctuation
+mqm:issue
+mqm:issue, x347, Incorrect
+在
+mqm:issue
+墨西哥北部海岸较凉爽的水域
+mqm:issue, x348, Incorrect
+中
+mqm:issue
+移动
+mqm:issue, x346, Mistranslation
+时
+mqm:issue
+正在减弱 。
+close doc
+open doc
+然而，
+mqm:issue, x353, Punctuation
+mqm:issue
+罗莎
+mqm:issue, x354, Punctuation
+mqm:issue
+将在未来几天给墨西哥北部和美国西南部带来
+mqm:issue, x352, Mistranslation
+洪水
+mqm:issue
+降雨。
+close doc
+open doc
+mqm:issue, x357, Punctuation
+mqm:issue
+罗莎
+mqm:issue, x358, Punctuation
+mqm:issue
+飓风的风速为每小时85英里，属于一级飓风，
+mqm:issue, x359, Word order
+在星期天东部时间凌晨5点
+mqm:issue
+，位于墨西哥
+mqm:issue, x363, Entity
+欧根尼亚
+mqm:issue
+（PuntaEugenia）西南385英里处。
+close doc
+open doc
+预计
+mqm:issue, x365, Punctuation
+mqm:issue
+罗莎
+mqm:issue, x366, Punctuation
+mqm:issue
+将于周日向北移动。
+close doc
+open doc
+与此同时，
+mqm:issue, x370, Mistranslation
+一道低谷
+mqm:issue
+在太平洋上开始形成，向东流向美国西海岸。周一，当
+mqm:issue, x371, Punctuation
+mqm:issue
+罗莎
+mqm:issue, x372, Punctuation
+mqm:issue
+作为热带风暴接近下加利福尼亚半岛时，它将开始把热带的湿气向北推进到美国的西南部。
+close doc
+open doc
+mqm:issue, x382, Punctuation
+mqm:issue
+罗莎
+mqm:issue, x383, Punctuation
+mqm:issue
+周一将为墨西哥部分地区带来 10 英寸的降雨量 。
+close doc
+open doc
+然后，热带湿气与
+mqm:issue, x398, Mistranslation
+接近
+mqm:issue
+的低气压槽相互作用，将在未来几天在西南地区造成大范围的强降雨。
+close doc
+open doc
+在当地 ， 1 到 4 英寸的降雨将导致危险的山洪暴发 、 泥石流和可能的沙漠滑坡 。
+close doc
+open doc
+mqm:issue, x391, Fluency
+深
+mqm:issue
+热带湿气会使这些地区的降雨量达到每小时 2 到 3 英寸 ， 特别是在内华达州和亚利桑那州南部的部分地区 。
+close doc
+open doc
+预计西南部分地区降雨量将达到2到4英寸，尤其是亚利桑那州的大部分地区。
+close doc
+open doc
+由于热带
+mqm:issue, x393, Mistranslation
+雨水
+mqm:issue
+的分散性，在迅速恶化的条件下有可能发生暴洪。
+close doc
+open doc
+冒着热带降雨的威胁，步行到沙漠里去冒险是极不明智的。
+close doc
+open doc
+大雨可能导致峡谷变成狂暴的河流，雷暴将带来局部阵风和飞尘。
+close doc
+open doc
+mqm:issue, x400, Mistranslation
+接近
+mqm:issue
+的
+mqm:issue, x397, Mistranslation
+水槽
+mqm:issue
+将给南加州海岸线部分地区带来局部的大雨。
+close doc
+open doc
+降雨量超过半英寸是可能的，这可能导致轻微的泥石流和
+mqm:issue, x404, Mistranslation
+光滑
+mqm:issue
+的道路。
+close doc
+open doc
+这将是该地区雨季的第一场降雨。
+close doc
+open doc
+一些零散的热带
+mqm:issue, x406, Mistranslation
+雨季
+mqm:issue
+将在周日晚间和周一早间开始接近亚利桑那州，然后
+mqm:issue, x407, Preposition
+在
+mqm:issue
+周一晚间和周二雨势
+mqm:issue, x410, Missing
+mqm:issue
+变得更为
+mqm:issue, x409, Mistranslation
+普遍
+mqm:issue
+mqm:issue, x408, Fluency
+之前
+mqm:issue
+。
+close doc
+open doc
+大雨将在周二蔓延到
+mqm:issue, x423, Entity
+四个角落
+mqm:issue
+，并将持续到周三。
+close doc
+open doc
+随着北极变冷，十月份美国各地会出现剧烈的温度波动，
+mqm:issue, x424, Word order
+但热带地区仍然相当温暖
+mqm:issue
+。
+close doc
+open doc
+有时这会导致短距离内温度的剧烈变化。
+close doc
+open doc
+mqm:issue, x427, Omission
+mqm:issue
+周日,美国中部地区出现了一个巨大的温差
+mqm:issue, x428, Punctuation
+.
+mqm:issue
+close doc
+open doc
+密苏里州的堪萨斯城和内布拉斯加州的奥马哈 ， 以及爱荷华州的圣路易斯和得梅因之间的温差接近 20 度 。
+close doc
+open doc
+在接下来的几天里，挥之不去的夏天的
+mqm:issue, x438, Mistranslation
+温暖
+mqm:issue
+将再次
+mqm:issue, x435, Overly-literal
+建立和扩大
+mqm:issue
+。
+close doc
+open doc
+预计到 10月 ， 美国中部和东部的大部分地区将会有一个温暖的开端 ， 从南部平原到东北部的部分地区将会
+mqm:issue, x439, Unintelligible
+分布 80 年代
+mqm:issue
+ 。
+close doc
+open doc
+纽约市周二的气温可能达到 80 度 ， 比平均
+mqm:issue, x441, Mistranslation
+气温
+mqm:issue
+高出 10 度左右 。
+close doc
+open doc
+我们的长期气候预测显示，到10月上半月，美国东部气温很有可能高于平均水平。
+close doc
+open doc
+2 
+mqm:issue, x442, Punctuation
+, 
+mqm:issue
+000 多万人观看了 
+mqm:issue, x443, Untranslated
+Brett Kavanaugh 
+mqm:issue
+的听证会
+close doc
+open doc
+周四，超过2000万人观看了最高法院候选人布雷特·卡瓦诺(Brett Kavanaugh)和指控卡瓦诺性侵的女子克里斯汀·布莱西·福特(Christine Blasey Ford)在六家电视网络上
+mqm:issue, x447, Mistranslation
+发表的证词
+mqm:issue
+。
+close doc
+open doc
+与此同时，政治僵局仍在继续，
+mqm:issue, x457, Word order
+电视台中断了
+mqm:issue
+mqm:issue, x454, Omission
+mqm:issue
+周五最后一刻的
+mqm:issue, x455, Omission
+mqm:issue
+常规节目制作：亚利桑那州参议员杰夫·弗莱克（JeffFlake）策划了一项协议，要求联邦调查局对指控进行为期一周的调查。
+close doc
+open doc
+福特告诉参议院司法委员会，她百分之百地
+mqm:issue, x466, Mistranslation
+相信
+mqm:issue
+卡瓦诺在高中派对上醉醺醺地摸着她，试图脱掉她的衣服。
+close doc
+open doc
+卡瓦诺在热情洋溢的证词中说，他百分之百地肯定这件事没有发生。
+close doc
+open doc
+据尼尔森上周五报道 ， 可能有超过 2040万人观看了这场
+mqm:issue, x470, Mistranslation
+比赛
+mqm:issue
+ 。
+close doc
+open doc
+该公司正在计算
+mqm:issue, x473, Untranslated
+CBS、ABC、NBC、CNN
+mqm:issue
+、福克斯新闻频道和
+mqm:issue, x474, Untranslated
+MSNBC
+mqm:issue
+的平均
+mqm:issue, x475, Mistranslation
+观众人数
+mqm:issue
+。
+close doc
+open doc
+目前还没有其他
+mqm:issue, x482, Omission
+mqm:issue
+电视网的相关数据，包括
+mqm:issue, x478, Untranslated
+PBS、C-SPAN
+mqm:issue
+和福克斯商业电视网(Fox Business Network)。
+close doc
+open doc
+而对于
+mqm:issue, x484, Omission
+mqm:issue
+那些在办公室里看电视的人 ， 
+mqm:issue, x483, Mistranslation
+他们
+mqm:issue
+通常会有一些问题 。
+close doc
+open doc
+换个角度来看，这和一场季后赛足球比赛或者奥斯卡奖的观众规模差不多。
+close doc
+open doc
+尼尔森说，福克斯新闻频道在全天听证会上的观众平均达到569万，在所有电视网中排名第一。福克斯新闻频道的
+mqm:issue, x486, Overly-literal
+观点
+mqm:issue
+主持人强烈支持卡瓦诺的任命。
+mqm:issue, x487, Punctuation
+。
+mqm:issue
+close doc
+open doc
+美国广播公司位居第二，有326万观众。
+close doc
+open doc
+尼尔森
+mqm:issue, x490, Overly-literal
+说
+mqm:issue
+，哥伦比亚广播公司有310万，
+mqm:issue, x491, Untranslated
+NBC
+mqm:issue
+有294万，
+mqm:issue, x492, Untranslated
+MSNBC
+mqm:issue
+有289万，
+mqm:issue, x493, Untranslated
+CNN
+mqm:issue
+有252万。
+close doc
+open doc
+听证会结束后，
+mqm:issue, x502, Mistranslation
+兴趣
+mqm:issue
+仍然很高。
+close doc
+open doc
+弗莱克是周五
+mqm:issue, x504, Mistranslation
+那出戏
+mqm:issue
+的核心人物。
+close doc
+open doc
+mqm:issue, x508, Omission
+mqm:issue
+温和
+mqm:issue, x507, Mistranslation
+派
+mqm:issue
+共和党
+mqm:issue, x506, Missing
+mqm:issue
+办公室发表声明说，他将投票支持卡瓦诺，随后在周五早上，当他试图乘坐电梯参加司法委员会听证会时，被
+mqm:issue, x515, Untranslated
+CNN
+mqm:issue
+和哥伦比亚广播公司的摄像机拍到，抗议者向他喊叫。
+close doc
+open doc
+他站在那里，眼睛低垂了几分钟，在
+mqm:issue, x517, Untranslated
+CNN
+mqm:issue
+的现场直播中，
+mqm:issue, x522, Unintelligible
+他受到了严厉的斥责
+mqm:issue
+。
+close doc
+open doc
+一位妇女说：“我就站在
+mqm:issue, x516, Mistranslation
+你们
+mqm:issue
+面前。
+close doc
+open doc
+“你认为他对这个国家说的是真话吗？
+close doc

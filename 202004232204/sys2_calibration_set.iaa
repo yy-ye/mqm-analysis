@@ -1,0 +1,148 @@
+Total kappa: 0.3085429914293619
+Kappa for Accuracy: 0.5071491838542328
+Kappa for Mistranslation: 0.27873338545738857
+Kappa for Overly-literal: -0.09236234458259288
+Kappa for Entity: 0.41428571428571426
+Kappa for Omission: 0.25114155251141546
+Kappa for Addition: 0.0
+Kappa for Untranslated: 0.7875647668393779
+Kappa for Fluency: 0.10545454545454723
+Kappa for Typograhy: -0.010958904109588751
+Annotators did not use error type Unpaired-marks
+Kappa for Punctuation: -0.03361344537814878
+Kappa for Unintelligible: 0.3050847457627115
+Kappa for Grammar: -0.027855153203344807
+Kappa for Word order: -0.03361344537814878
+Kappa for Function words: 0.0
+Kappa for Extraneous: 0.0
+Annotators did not use error type Preposition
+Kappa for Adverb: 0.0
+Kappa for Particle: 0.0
+Annotators did not use error type Incorrect
+Kappa for Missing: 0.0
+Annotators did not use error type Classifier
+annotator1: []
+annotator2 []
+fdno 1
+annotator1: ['Entity', 'Untranslated']
+annotator2 ['Entity', 'Untranslated']
+fdyes 1
+annotator1: ['Mistranslation', 'Omission']
+annotator2 ['Overly-literal', 'Entity', 'Omission']
+fdyes 2
+annotator1: ['Mistranslation']
+annotator2 ['Overly-literal', 'Punctuation']
+fdyes 3
+annotator1: ['Addition', 'Grammar']
+annotator2 ['Entity', 'Overly-literal']
+fdyes 4
+annotator1: ['Mistranslation']
+annotator2 ['Overly-literal', 'Mistranslation']
+fdyes 5
+annotator1: ['Omission', 'Untranslated']
+annotator2 ['Mistranslation', 'Untranslated']
+fdyes 6
+annotator1: ['Entity', 'Mistranslation']
+annotator2 ['Mistranslation', 'Overly-literal']
+fdyes 7
+annotator1: ['Overly-literal']
+annotator2 ['Omission', 'Mistranslation']
+fdyes 8
+annotator1: ['Omission']
+annotator2 ['Word order']
+fdyes 9
+annotator1: ['Entity', 'Mistranslation']
+annotator2 ['Unintelligible']
+fdyes 10
+annotator1: []
+annotator2 []
+fdno 2
+annotator1: ['Unintelligible']
+annotator2 ['Overly-literal', 'Unintelligible']
+fdyes 11
+annotator1: ['Entity']
+annotator2 ['Entity', 'Punctuation', 'Overly-literal', 'Mistranslation']
+fdyes 12
+annotator1: ['Omission', 'Mistranslation', 'Adverb']
+annotator2 ['Entity', 'Overly-literal', 'Mistranslation', 'Omission']
+fdyes 13
+annotator1: ['Entity']
+annotator2 ['Overly-literal', 'Mistranslation']
+fdyes 14
+annotator1: ['Entity']
+annotator2 ['Entity']
+fdyes 15
+annotator1: ['Word order']
+annotator2 []
+fyesdno 1
+annotator1: []
+annotator2 []
+fdno 3
+annotator1: ['Fluency']
+annotator2 []
+fyesdno 2
+annotator1: []
+annotator2 ['Grammar']
+fnodyes 1
+annotator1: ['Omission']
+annotator2 []
+fyesdno 3
+annotator1: ['Grammar']
+annotator2 ['Untranslated']
+fdyes 16
+annotator1: ['Omission']
+annotator2 ['Unintelligible']
+fdyes 17
+annotator1: ['Overly-literal']
+annotator2 []
+fyesdno 4
+annotator1: ['Omission']
+annotator2 ['Mistranslation']
+fdyes 18
+annotator1: ['Particle']
+annotator2 []
+fyesdno 5
+annotator1: []
+annotator2 []
+fdno 4
+annotator1: []
+annotator2 []
+fdno 5
+annotator1: ['Omission']
+annotator2 ['Overly-literal']
+fdyes 19
+annotator1: ['Fluency', 'Mistranslation']
+annotator2 ['Unintelligible', 'Mistranslation']
+fdyes 20
+annotator1: ['Mistranslation']
+annotator2 []
+fyesdno 6
+annotator1: ['Missing', 'Punctuation', 'Word order']
+annotator2 ['Overly-literal']
+fdyes 21
+annotator1: []
+annotator2 []
+fdno 6
+annotator1: []
+annotator2 []
+fdno 7
+annotator1: []
+annotator2 ['Grammar']
+fnodyes 2
+annotator1: ['Mistranslation']
+annotator2 ['Grammar', 'Mistranslation']
+fdyes 22
+annotator1: ['Mistranslation']
+annotator2 ['Mistranslation']
+fdyes 23
+annotator1: ['Mistranslation']
+annotator2 ['Mistranslation', 'Overly-literal']
+fdyes 24
+annotator1: ['Mistranslation', 'Grammar']
+annotator2 ['Mistranslation', 'Unintelligible']
+fdyes 25
+annotator1: ['Omission']
+annotator2 ['Overly-literal']
+fdyes 26
+26 2 6 7
+Overall kappa: 0.5089820359281437
