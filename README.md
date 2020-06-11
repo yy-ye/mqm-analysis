@@ -1,9 +1,6 @@
 MQM ERROR ANALYSIS CODE AND ANNOTATION RESULT
 -----
 
-ABOUT
------
-
 This repository contains supplementary material for the publications:
 
 Klubička, Filip, Antonio Toral, and Víctor M. Sánchez-Cartagena. 2018. “Quantitative Fine-Grained Human Evaluation of Machine Translation Systems: A Case Study on English to Croatian.” Machine Translation 32 (3): 195–215. https://doi.org/10.1007/s10590-018-9214-x.
