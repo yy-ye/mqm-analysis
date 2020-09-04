@@ -6,7 +6,7 @@ by [Filip Klubička](https://github.com/GreenParachute/mqm-eng-cro) and Yuying Y
 ## Contents
 
 - **csv** annotated .csv file exported from translate5.
-- **MQM_IAA_scripts** Python scripts to conduct the statistical analysis on MQM. output. The script **main.py** runs all the analysis.
+- **MQM_IAA_scripts** Python scripts to conduct the statistical analysis on MQM. output. The script `main.py` runs all the analysis.
 - **202004232204** output of the analysis on two NMT systems.
 -**extra_sys** additional annotation of the third NMT system, the code adjusted for analysing this single output and the result.
 
