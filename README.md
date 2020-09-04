@@ -15,7 +15,7 @@ Citation/References
 -----
 If you use the MQM error analysis code or annotation result, we'd appreciate if you cite the [paper](https://arxiv.org/abs/2006.08297) about it!
 
-"""
+'''
 @article{10.1007/s10590-018-9214-x,
 author = {Klubi\u{a}?Ka, Filip and Toral, Antonio and S\'{a}nchez-Cartagena, V\'{\i}ctor M.},
 title = {Quantitative Fine-Grained Human Evaluation of Machine Translation Systems: A Case Study on English to Croatian},
@@ -32,9 +32,9 @@ journal = {Machine Translation},
 month = sep,
 pages = {195–215}
 }
-"""
+'''
 
-"""
+'''
 @inproceedings{ye-toral-2020-fine,
     title = "Fine-grained Human Evaluation of Transformer and Recurrent Approaches to Neural Machine Translation for {E}nglish-to-{C}hinese",
     author = "Ye, Yuying  and
@@ -47,5 +47,4 @@ pages = {195–215}
     url = "https://www.aclweb.org/anthology/2020.eamt-1.14",
     pages = "125--134"
 }
-
-"""
+'''
