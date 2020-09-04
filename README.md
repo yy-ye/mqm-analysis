@@ -17,20 +17,20 @@ If you use the MQM error analysis code or annotation result, we'd appreciate if 
 
 ```
 @article{10.1007/s10590-018-9214-x,
-author = {Klubi\u{a}?Ka, Filip and Toral, Antonio and S\'{a}nchez-Cartagena, V\'{\i}ctor M.},
-title = {Quantitative Fine-Grained Human Evaluation of Machine Translation Systems: A Case Study on English to Croatian},
-year = {2018},
-issue_date = {September 2018},
-publisher = {Kluwer Academic Publishers},
-address = {USA},
-volume = {32},
-number = {3},
-issn = {0922-6567},
-url = {https://doi.org/10.1007/s10590-018-9214-x},
-doi = {10.1007/s10590-018-9214-x},
-journal = {Machine Translation},
-month = sep,
-pages = {195–215}
+	author = {Klubi\u{a}?Ka, Filip and Toral, Antonio and S\'{a}nchez-Cartagena, V\'{\i}ctor M.},
+	title = {Quantitative Fine-Grained Human Evaluation of Machine Translation Systems: A Case Study on English to Croatian},
+	year = {2018},
+	issue_date = {September 2018},
+	publisher = {Kluwer Academic Publishers},
+	address = {USA},
+	volume = {32},
+	number = {3},
+	issn = {0922-6567},
+	url = {https://doi.org/10.1007/s10590-018-9214-x},
+	doi = {10.1007/s10590-018-9214-x},
+	journal = {Machine Translation},
+	month = sep,
+	pages = {195–215}
 }
 ```
 
