@@ -1,9 +1,9 @@
-# MQM ERROR ANALYSIS CODE AND ANNOTATION RESULT
+# MQM error anlaysis code and annotation result
 
 by [Filip Klubička](https://github.com/GreenParachute/mqm-eng-cro) and Yuying Ye
 
 
-## CONTENTS
+## Contents
 
 - **csv** annotated .csv file exported from translate5.
 - **MQM_IAA_scripts** Python scripts to conduct the statistical analysis on MQM. output. The script **main.py** runs all the analysis.
