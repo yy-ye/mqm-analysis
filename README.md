@@ -1,4 +1,4 @@
-# MQM error anlaysis code and annotation result
+# MQM error analysis code and annotation result
 
 by [Filip Klubička](https://github.com/GreenParachute/mqm-eng-cro) and Yuying Ye
 
